@@ -1,0 +1,71 @@
+title:string=Large Compact Machine
+author:string=macb
+mats:table={
+  w:string=compactmachines3:wallbreakable
+  e:string=minecraft:emerald_block
+}
+levels:list=[
+  table={
+    name:string=floor
+    blocks:list=[
+      string=  v
+      string=
+      string=wwwww
+      string=wwwww
+      string=wwwww
+      string=wwwww
+      string=wwwww
+    ]
+  }
+  table={
+    name:string=walls
+    span:number=1
+    blocks:list=[
+      string=
+      string=
+      string=wwwww
+      string=w   w
+      string=w   w
+      string=w   w
+      string=wwwww
+    ]
+  }
+  table={
+    name:string=emerald
+    span:number=1
+    blocks:list=[
+      string=
+      string=
+      string=wwwww
+      string=w   w
+      string=w e w
+      string=w   w
+      string=wwwww
+    ]
+  }
+  table={
+    name:string=walls
+    span:number=1
+    blocks:list=[
+      string=
+      string=
+      string=wwwww
+      string=w   w
+      string=w   w
+      string=w   w
+      string=wwwww
+    ]
+  }
+  table={
+    name:string=roof
+    blocks:list=[
+      string=
+      string=
+      string=wwwww
+      string=wwwww
+      string=wwwww
+      string=wwwww
+      string=wwwww
+    ]
+  }
+]
